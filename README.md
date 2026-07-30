@@ -1,8 +1,5 @@
 womp womp
 
 <p align="center">
-  <a href="https://womp-wo.mp/">
-    <img height=170rem src="https://github-readme-stats.vercel.app/api?username=ProdPreva1l&theme=gruvbox_light&show_icons=true&hide_border=true&include_orgs=true"/>
-    <img height=170rem src="https://github-readme-stats.vercel.app/api/top-langs?username=ProdPreva1l&theme=gruvbox_light&show_icons=true&hide_border=true&layout=compact"/>
-  </a>
+  <img height=170rem src="https://github-stats-extended.vercel.app/api?username=ProdPreva1l&hide_title=true&show_icons=true&theme=gruvbox_light&include_orgs=true"/>
 </p>
